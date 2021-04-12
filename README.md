@@ -6,6 +6,6 @@ This project aims to optimise the the effeciency of Combined Cycle Gas Turbine (
 
 ## Project Members:
 
-Ratnadeep Das Choudhury
-Mangolik Kundu
-Souvik Datta
+1) Ratnadeep Das Choudhury
+2) Mangolik Kundu
+3) Souvik Datta
