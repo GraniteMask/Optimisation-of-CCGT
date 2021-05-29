@@ -2,7 +2,7 @@
 
 This project aims to optimise the the effeciency of Combined Cycle Gas Turbine (CCGT) by improving certain factors.
 
-### Software used : MATLAB / SIMULINK
+### Software used : SIMULINK
 
 ## Project Members:
 
