@@ -1,6 +1,6 @@
 # Optimisation-of-CCGT
 
-This project aims to optimise the the effeciency of Combined Cycle Gas Turbine (CCGT) by improving certain factors.
+This project aims to optimise the efficiency of Combined Cycle Gas Turbine (CCGT) by improving certain factors.
 
 ### Software used : SIMULINK
 
